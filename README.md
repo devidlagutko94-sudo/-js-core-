@@ -1,5 +1,9 @@
 # -js-core-
 
-[Image alt](https://github.com/devidlagutko94-sudo/-js-core-/raw/1.png)
+<p>1. регистрация пользователя</p>
+<img src="1.png" alt="Описание картинки" width="300">
+<p>2. Вход логин пароль</p>
+<img src="2.png" alt="Описание картинки" width="300">
+<p>3. Вход по токену</p>
+<img src="3.png" alt="Описание картинки" width="300">
 
-https://github.com/devidlagutko94-sudo/-js-core-/edit/main/README.md
